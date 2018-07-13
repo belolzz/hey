@@ -1,9 +1,10 @@
 {
   "main": "bot.js",
   "description":"test",
-  "verson":"0.0.0",
+  "verson":"1.0.0",
   "scripts": {
-    "start": "node bot.js"
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node index.js"
   },
   "dependencies": {
     "discord.js": "^11.3.2",
