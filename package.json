@@ -1,7 +1,7 @@
 {
   "main": "bot.js",
   "description":"test",
-  "verson":"0.0.0"
+  "verson":"0.0.0",
   "scripts": {
     "start": "node bot.js"
   },
