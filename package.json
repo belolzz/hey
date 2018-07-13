@@ -1,14 +1,10 @@
 {
   "main": "bot.js",
+  "description":"test",
+  "verson":"0.0.0"
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1",
     "start": "node bot.js"
   },
-  "engines": {
-    "node": "8.x"
-  },
-  "author": "kimyou",
-  "license": "MIT",
   "dependencies": {
     "discord.js": "^11.3.2",
     "request":"2.81.8",
