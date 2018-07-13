@@ -1,14 +1,16 @@
 {
-  "main": "bot.js",
-  "description":"test",
-  "verson":"1.0.0",
+  "main": "node index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
     "start": "node index.js"
   },
+  "engines": {
+    "node": "8.x"
+  },
+  "author": "kimyou",
+  "license": "MIT",
   "dependencies": {
     "discord.js": "^11.3.2",
-    "request":"2.81.8",
     "enmap": "^2.6.3",
     "moment": "^2.22.2",
     "moment-duration-format": "^2.2.2",
